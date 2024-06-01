@@ -41,6 +41,9 @@ Os wireframes são protótipos usados em design de interface para sugerir a estr
 ### Tela Categoria do Sistema
 ![image](img/TelaCategoriaMobileNova.png)
 
+### Tela Receita do Sistema
+![image](img/TelaReceitaNovaMobile.jpeg)
+
 ### Tela Despesa do Sistema
 ![image](img/TelaDespesaMobileNova.png)
 
