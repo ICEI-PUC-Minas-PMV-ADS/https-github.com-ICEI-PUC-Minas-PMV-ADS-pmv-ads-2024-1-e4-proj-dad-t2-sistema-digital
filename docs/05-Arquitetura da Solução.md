@@ -22,7 +22,7 @@ O sistema financeiro será composto pelos seguintes componentes:
 - **Ferramentas de Versionamento**: Git e GitHub.
  
  ## Arquitetura Distribuida
-A arquitetura distribuída adotada para o sistema financeiro permite que cada microsserviço, como Sistema Financeiro, Categoria,Receita, Despesa e Usuário, seja desenvolvido, implantado e escalado independentemente. Essa abordagem facilita a manutenção e a evolução contínua do sistema. A API de Gateway atua como uma camada de abstração entre os clientes e os microsserviços, simplificando o acesso aos recursos e garantindo a segurança e o controle das solicitações. Além disso, cada microsserviço possui seu próprio banco de dados, garantindo a segregação de dados e permitindo uma melhor escalabilidade e desempenho.
+A arquitetura distribuída adotada para o sistema financeiro permite que cada microsserviço, como Sistema Financeiro, Categoria, Receita, Despesa e Usuário, seja desenvolvido, implantado e escalado independentemente. Essa abordagem facilita a manutenção e a evolução contínua do sistema. A API de Gateway atua como uma camada de abstração entre os clientes e os microsserviços, simplificando o acesso aos recursos e garantindo a segurança e o controle das solicitações. Além disso, cada microsserviço possui seu próprio banco de dados, garantindo a segregação de dados e permitindo uma melhor escalabilidade e desempenho.
 
  ![Diagrama de Arquitetura](img/apibackend.png)
 
