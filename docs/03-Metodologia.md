@@ -29,18 +29,6 @@ Além disso, as gerências de tags, merges, commits e branches são realizadas c
 
 ### Divisão de Papéis
 
-### Divisão de Papéis
-
-A equipe está organizada conforme a metodologia Scrum, com a seguinte divisão de papéis:
-
-- Scrum Master: Leonardo
-- Equipe de Desenvolvimento:
-  - Lucas Delmasquio Silva
-  - Samuel Ferreira de Oliveira
-  - Frederico Gonçalves da Silva Junior
-  - Nicolas
-
-
 ### Processo
 
 A implementação do Scrum é seguida pelo grupo, utilizando recursos de gerenciamento de projeto oferecidos pelo GitHub para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
